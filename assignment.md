@@ -1,11 +1,12 @@
-name=Assignment-1.1.md
-Assignment 1.1 — How a Website Works[cite: 1]
-Task: Explain in a single paragraph how a website opens on the screen after typing a URL.[cite: 1]
-What to do:
+name=Assignment-5.3.md
+Assignment 5.3 — Typography Showcase Page[cite: 23]
+What to build: A typography showcase webpage[cite: 23].
+Steps:
 
-1. Understand the basic roles of browser, client, server, and database.[cite: 1]
-2. Write the meanings of HTTP and HTTPS.[cite: 1]
-3. Explain the request-response cycle.[cite: 1]
-4. Write the differences between a static and a dynamic website.[cite: 1]
-5. Open Chrome DevTools and inspect requests in the Network tab of any website.[cite: 1]
-Submission: An explanatory paragraph and a screenshot of the Network tab.[cite: 1]
+1. Select 2 complementary font families from Google Fonts[cite: 23].
+2. Set different fonts for heading and body text[cite: 23].
+3. Use different font sizes and weights[cite: 23].
+4. Apply `text-align`, `text-decoration`, and `font-style`[cite: 23].
+5. Adjust `letter-spacing` and `line-height`[cite: 23].
+6. Create 3 sections: Heading Styles, Paragraph Styles, and Text Emphasis[cite: 23].
+Submission: Styled typography webpage and CSS file[cite: 23].
